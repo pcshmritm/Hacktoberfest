@@ -6,4 +6,4 @@
   <img width="500" height="500" src="https://res.cloudinary.com/di3rtdxmx/raw/upload/v1569321164/Hacktoberfest_19_Events_500x500.png">
 </p>
 
-## Getting Started to Open Source with Proximus Coding Soceity & Hacktoberfest
+## Getting Started to Open Source with Hacktoberfest
